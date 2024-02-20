@@ -1,0 +1,99 @@
+﻿Biometría hemática completa,150,Tubo morado,Densitometría de flujo.,,1,n
+Grupo sanguíneo,80,Tubo morado,Aglutinación en placa.,,1,n
+Volumen de sedimentación globular,100,Tubo morado,Sedimentación en tubo de Wintrobe.,,1,n
+TP/INR Tiempo de protrombina,200,Tubo azul,Automatizado.,,1,n
+TTPa Tiempo de tromboplastina parcial activado,150,Tubo azul,Automatizado.,,1,n
+Eosinófilos en moco nasal,200,,Tinción de Wright.,,1,n
+Hemoglobina glicada,350,Tubo morado,Inmunocromatografía.,,1,n
+Conteo de reticulocitos,300,Tubo morado,Tinción de Azul de Metileno.,,1,n
+Fibrinógeno,500,Tubo azul,Automatizado.,,2,n
+Prueba inmunológica de embarazo,100,Tubo rojo,Inmunoensayo cromatográfico.,,2,n
+Prueba de antígeno COVID-19,450,Tubo rojo,Inmunoensayo cromatográfico.,,2,n
+Prueba de anticuerpos IgG e lgM COVID-19,500,Tubo rojo,Inmunoensayo cromatográfico.,,2,n
+Prueba de anticuerpos IgG e lgM Dengue,450,Tubo rojo,Inmunoensayo cromatográfico.,,2,n
+Anticuerpo IgM del Virus Hepatitis A,500,Tubo rojo,Inmunoensayo cromatográfico.,,2,n
+Antígeno de superficie de Virus Hepatitis B,500,Tubo rojo,Inmunoensayo cromatográfico.,,2,n
+Prueba anticuerpo de Virus Hepatitis C,500,Tubo rojo,Inmunoensayo cromatográfico.,,2,n
+Anticuerpos Chikungunya IgG ,150,Tubo rojo,Inmunoensayo cromatográfico.,,2,n
+Anticuerpos Chikungunya IgM,150,Tubo rojo,Inmunoensayo cromatográfico.,,2,n
+Prueba de Coombs indirecto,500,Tubo rojo,Automatizado.,,2,n
+Prueba de Coombs directo,500,Tubo rojo,Automatizado.,,2,n
+Cuantificación de gonadotropina coriónica humana fracción beta,450,Tubo rojo,Inmunocromatografía.,,2,n
+Prueba de anticuerpos anti Helicobacter pylory IgA,500,Tubo rojo,Inmunocromatografía.,,2,n
+Prueba de anticuerpos anti Helicobacter pylory IgG,500,Tubo rojo,Inmunocromatografía.,,2,n
+Prueba de anticuerpos anti Helicobacter pylory IgM,500,Tubo rojo,Inmunocromatografía.,,2,n
+Antígeno prostático especifico total,450,Tubo rojo,Inmunocromatografía.,,2,n
+Proteína C reactiva,250,Tubo rojo,Aglutinación en placa.,,2,n
+Reacciones febriles,250,Tubo rojo,Aglutinación en placa.,,2,n
+Proteína creativa ultrasensible,800,Tubo rojo,Aglutinación en placa.,,2,n
+Factor reumatoide,250,Tubo rojo,Aglutinación en placa.,,2,n
+Antiestreptolisinas,250,Tubo rojo,Aglutinación en placa.,,2,n
+Prueba rápida de anticuerpos para detección de sífilis VDRL,180,Tubo rojo,Inmunoensayo cromatográfico.,,2,n
+Prueba rápida de anticuerpos VIH tipo 1 y 2,220,Tubo rojo,Inmunoensayo cromatográfico.,,2,n
+Glucosa sérica,80,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Urea sérica,80,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Ácido úrico sérico,100,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Creatinina sérica,100,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Colesterol sérico total,100,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Triglicéridos séricos totales,100,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Proteínas totales,100,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Albumina en suero,100,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Globulina,50,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Relación A/G,50,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Bilirrubina total,150,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Bilirrubina directa,150,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Fosfatasa alcalina,150,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Gamma Glutamil Transferasa,150,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Transaminasa G. oxalacética (TGO/AST),120,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Transaminasa G. pirúvica (TGP/ALT),120,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Deshidrogenasa láctica DHL,150,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Amilasa sérica,180,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Calcio serico,140,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Fosforo serico,140,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Magenesio serico,140,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Sodio serico,140,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Potasio serico,140,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Cloro serico,140,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Hierro sérico,150,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Capacidad total de fijación de hierro,100,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Capacidad libre de fijación de hierro,100,Tubo rojo,Espectrofotometría automatizada.,,3,n
+Porcentaje de saturación de hierro,100,Tubo rojo,Espectrofotometría automatizada.,,3,n
+T3 total Triyodotironina,150,Tubo rojo,Inmunocromatografía.,,4,n
+T4 total Tiroxina,150,Tubo rojo,Inmunocromatografía.,,4,n
+T3 libre Triyodotironina libre,150,Tubo rojo,Inmunocromatografía.,,4,n
+T4 libre Tiroxina libre,150,Tubo rojo,Inmunocromatografía.,,4,n
+Yodo,150,Tubo rojo,Inmunocromatografía.,,4,n
+TSH Tirotropina,150,Tubo rojo,Inmunocromatografía.,,4,n
+Hormona luteinizante,170,Tubo rojo,Inmunocromatografía.,,4,n
+Hormona folículo estimulante,170,Tubo rojo,Inmunocromatografía.,,4,n
+Prolactina,170,Tubo rojo,Inmunocromatografía.,,4,n
+Progesterona,170,Tubo rojo,Inmunocromatografía.,,4,n
+Estradiol,170,Tubo rojo,Inmunocromatografía.,,4,n
+Testosterona,170,Tubo rojo,Inmunocromatografía.,,4,n
+Insulina sérica,300,Tubo rojo,Inmunocromatografía.,,4,n
+Estriol libre,300,Tubo rojo,Inmunocromatografía.,,5,n
+Búsqueda de amiba en fresco,250,Frasco tapa roja,Tinción Yodo-Lugol,,5,n
+Coprológico,500,Frasco tapa roja,Tinción Yodo-Lugol,,5,n
+Coproparasitoscópico de 1 muestra,200,Frasco tapa roja,Tinción Yodo-Lugol,,5,n
+Coproparasitoscópico de 2 muestras,400,Frasco tapa roja,Tinción Yodo-Lugol,,5,n
+Coproparasitoscópico de 3 muestras,500,Frasco tapa roja,Tinción Yodo-Lugol,,5,n
+Sangre oculta en heces fecales,300,Frasco tapa roja,Tinción Yodo-Lugol,,5,n
+Cultivo de exudado faríngeo,400,Medio de cultivo de transporte,"Medio de cultivo, difusión en Agar sensidisco.",,6,n
+Cultivo de exudado ótico,400,Medio de cultivo de transporte,"Medio de cultivo, difusión en Agar sensidisco.",,6,n
+Cultivo de exudado vaginal,400,Medio de cultivo de transporte,"Medio de cultivo, difusión en Agar sensidisco.",,6,n
+Cultivo de exudado uretral,400,Medio de cultivo de transporte,"Medio de cultivo, difusión en Agar sensidisco.",,6,n
+Cultivo de exudado de herida,400,Medio de cultivo de transporte,"Medio de cultivo, difusión en Agar sensidisco.",,6,n
+Urocultivo,400,Frasco tapa roja,"Medio de cultivo, difusión en Agar sensidisco.",,6,n
+Coprocultivo,400,Frasco tapa roja,"Medio de cultivo, difusión en Agar sensidisco.",,6,n
+Examen general de orina,150,Frasco tapa roja,Tinción Sternheimer-Malbin,,7,n
+Creatinina en orina de 24 horas,600,Recipiente de 2 llitros.,Automatizado.,,7,n
+Tiempos de coagulación,1200,,Automatizado,,1,s
+Química de 6 elementos,560,,Espectrofotometría automatizada,,3,s
+Pruebas de función hepática,1470,,Espectrofotometría automatizada,,3,s
+Electrolitos séricos de 6 elementos,840,,Espectrofotometría automatizada,,3,s
+Perfil de cinética de hierro,450,,Espectrofotometría automatizada,,3,s
+Perfil tiroideo,900,,Inmunocromatografía,,4,s
+Perfil ginecológico,1020,,Inmunocromatografía,,4,s
+Perfil de Anticuerpos Chikungunya IgG e IgM,300,,Inmunoensayo cromatográfico,,2,s
+Perfil de Anticuerpos Anti H. Pylori,1500,,Inmunocromatografía,,2,s
+Perfil reumatico,850,, Aglutinación en placa,,2,s
